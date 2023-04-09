@@ -1,1 +1,1 @@
-# Python_DSA - Pratica 01
+# Python_DSA - Exercicios
